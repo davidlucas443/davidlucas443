@@ -1,4 +1,4 @@
-#  🧑🏻‍💻 :headphones: ```      Hello World!      ```  :earth_americas: <img src="https://github.com/user-attachments/assets/2124bc7c-8c64-478d-b58f-40e10b7f85e4" height="300px" align="right" alt="Gif animado">
+#  🧑🏻‍💻 :headphones: ```      Hello World!      ```  :earth_americas: <img src="https://github.com/user-attachments/assets/40badbe1-99e2-4761-be25-b2cfdeee28f9" height="250px" align="right" alt="Gif animado">
   *Prazer! Sou o David Sousa, tenho 16 anos.<br>
   Atualmente estou cursando Desenvolvimentos de Sistemas,<br>
   na instituição Senai, um curso de nivel técnico voltado <br>
