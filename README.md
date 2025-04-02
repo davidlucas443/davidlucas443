@@ -1,4 +1,4 @@
-#  🧑🏻‍💻 :headphones: ```      Hello World!      ```  
+#  🧑🏻‍💻 :headphones: ```      Hello World!      ```                                            ![Image](https://github.com/user-attachments/assets/4a360bcc-9024-41b3-bec8-745084ec1d79)
   *Prazer! Sou o David Sousa, tenho 16 anos.<br>
   Atualmente estou cursando Desenvolvimentos de Sistemas,<br>
   na instituição Senai, um curso de nivel técnico voltado <br>
