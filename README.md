@@ -1,6 +1,5 @@
 #  🧑🏻‍💻 :headphones: ```      Hello World!      ```                                
-                                                                                                                                      
-                                                                                                                  ![Image](https://github.com/user-attachments/assets/d11607d6-0a12-4f8d-a2e4-178918d71e39)                                                                                
+                                                                                                                                                                                                                    
   *Prazer! Sou o David Sousa, tenho 16 anos.<br>
   Atualmente estou cursando Desenvolvimentos de Sistemas,<br>
   na instituição Senai, um curso de nivel técnico voltado <br>
