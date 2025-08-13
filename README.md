@@ -1,4 +1,4 @@
-#  🧑🏻‍💻 :headphones: ```      PRAZER      ```                                
+#  🧑🏻‍💻 :headphones: ```     Olá,      ```                                
                                                                                                                                                                                                                     
   *Prazer! Sou o David Sousa, tenho 16 anos.<br>
   Atualmente estou cursando Desenvolvimentos de Sistemas,<br>
