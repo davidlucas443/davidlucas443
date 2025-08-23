@@ -29,11 +29,13 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
  
 ### 🔸```Estatísticas```:bar_chart:
-<div style="display: flex; justify-content: space-between; width: 100%; align-items: center;">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico de contribuições 3D"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidlucas443&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias" style="flex: 1;"/>
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davidlucas443&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" style="flex: 1;"/>
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/KenpsSouza/KenpsSouza/main/dist/github-contribution-grid-snake-dark.svg)
 
 
 
