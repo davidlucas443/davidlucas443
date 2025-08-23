@@ -31,7 +31,4 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/davidlucas443/davidlucas443/main/dist/github-contribution-grid-snake-dark.svg)
-
-
 
