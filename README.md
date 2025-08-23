@@ -31,7 +31,7 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/KenpsSouza/KenpsSouza/main/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/davidlucas443/main/dist/github-contribution-grid-snake-dark.svg)
 
 
 
