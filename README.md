@@ -1,6 +1,6 @@
 #  🧑🏻‍💻 :headphones: ```     Olá,      ```                                
                                                                                                                                                                                                                     
-  *Prazer! Sou o David Sousa, tenho 16 anos.<br>
+  Sou o David Sousa, tenho 16 anos.<br>
   Atualmente estou cursando Desenvolvimentos de Sistemas,<br>
   na instituição Senai, um curso de nivel técnico voltado <br>
   para a área de tecnologia, junto ao Senai,<br>
