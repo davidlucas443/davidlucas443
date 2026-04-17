@@ -31,8 +31,10 @@ Sou o David Sousa, tenho 17 anos e atualmente estou cursando o segundo ano do En
 &nbsp;&nbsp;&nbsp;
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=davidlucas443&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidlucas443&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://streak-stats.demolab.com?user=davidlucas443&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=20&order=3" height="200" alt="streak graph"  />
+</div>
 
+<div align="center">  
+  <img width="50%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=davidlucas443&show_icons=true&theme=nightowl&count_private=true&hide_border=true" alt="andrezon04 github stats"/> 
+  <img width="45%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api/top-langs/?username=davidlucas443&layout=compact&hide_border=true&theme=nightowl" />
 </div>
