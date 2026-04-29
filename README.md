@@ -30,9 +30,9 @@ Sou o David Sousa, tenho 17 anos e atualmente estou cursando o segundo ano do En
 
 &nbsp;&nbsp;&nbsp;
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=davidlucas443&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=20&order=3" height="200" alt="streak graph"  />
-</div> -->
+</div>
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=davidlucas443&show_icons=true&theme=nightowl&count_private=true&hide_border=true" alt="andrezon04 github stats"/> 
