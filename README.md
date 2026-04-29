@@ -35,6 +35,6 @@ Sou o David Sousa, tenho 17 anos e atualmente estou cursando o segundo ano do En
 </div>
 
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=davidlucas443&show_icons=true&theme=nightowl&count_private=true&hide_border=true" alt="andrezon04 github stats"/> 
+  <img width="50%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api?username=davidlucas443&show_icons=true&theme=nightowl&count_private=true&hide_border=true" alt="davidlucas443 github stats"/> 
   <img width="45%" height="195px" src="https://github-readme-stats-sigma-ruby-74.vercel.app/api/top-langs/?username=davidlucas443&layout=compact&hide_border=true&theme=nightowl" />
 </div>
