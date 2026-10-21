@@ -1,4 +1,4 @@
-#  🧑🏻‍💻 :headphones: ```     Olá,      ```                               
+# ```     Olá,      ```                               
 
 <p align="center">
 sou o David Sousa, tenho 17 anos e atualmente estou cursando o segundo ano do Ensino Médio, juntamente com o curso técnico em Desenvolvimento de Sistemas pelo SENAI. Durante minha formação, venho adquirindo conhecimentos em programação, lógica de desenvolvimento e criação de aplicações, buscando sempre evoluir minhas habilidades na área de tecnologia. Meu objetivo é continuar me aprimorando, desenvolver novos projetos e me preparar para ingressar futuramente no mercado de desenvolvimento de software.
